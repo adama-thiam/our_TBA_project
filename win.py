@@ -1,0 +1,1 @@
+# classe Win : les conditions de victoire, de défaite

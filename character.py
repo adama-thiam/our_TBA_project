@@ -1,0 +1,1 @@
+# classe Character : les PNJ
